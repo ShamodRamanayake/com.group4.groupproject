@@ -1,0 +1,5 @@
+INSERT INTO `supplier_detail` (`n_id`, `v_supplier_name`, `n_contact`, `v_email`, `v_status`) VALUES ('1', 'Keshan Hewage', '0728883973', 'keshanh@gmail.com', 'A');
+INSERT INTO `supplier_detail` (`n_id`, `v_supplier_name`, `n_contact`, `v_email`, `v_status`) VALUES ('2', 'Keshan Hewage', '0728883973', 'keshanh@gmail.com', 'A');
+INSERT INTO `supplier_detail` (`n_id`, `v_supplier_name`, `n_contact`, `v_email`, `v_status`) VALUES ('3', 'Hashan Mendis', '0712343545', 'hashanm@gmail.com', 'I');
+INSERT INTO `supplier_detail` (`n_id`, `v_supplier_name`, `n_contact`, `v_email`, `v_status`) VALUES ('4', 'Thushan Gamage', '0712334333', 'thushang@gmail.com', 'A');
+INSERT INTO `supplier_detail` (`n_id`, `v_supplier_name`, `n_contact`, `v_email`, `v_status`) VALUES ('5', 'Nilesh Piushan', '0712323232', 'nilesh7@gmail.com', 'D');
